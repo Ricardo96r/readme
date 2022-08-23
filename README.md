@@ -6,7 +6,6 @@ I am currently Interested in:
 - Blockchain applications
 - Low-level languages like c, c++, rust and go.
 - Cybersecurity
-- Cryptography
 
 My website: https://ricardorg.dev/
 
